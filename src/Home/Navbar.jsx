@@ -5,8 +5,8 @@ import userPic from '../assets/user.png';
 const Navbar = () => {
     const navLinks = <>
           <li><NavLink to="/">Home</NavLink></li>
-            <li><NavLink to="/add product">Add Product</NavLink></li>
-            <li><NavLink to="/my cart">My Cart</NavLink></li>
+            <li><NavLink to="/addproducts">Add Product</NavLink></li>
+            <li><NavLink to="/cart">My Cart</NavLink></li>
     </>
     return (
         <div className="navbar">

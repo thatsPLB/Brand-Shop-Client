@@ -1,0 +1,35 @@
+[
+    {
+      "id": "1",
+      "name": "iMac Pro 2023",
+      "category": "Desktop Computer",
+      "price": "$2,499",
+      "rating": 4.7,
+      "image": "https://i.ibb.co/Fq4tVbZ/mac.jpg"
+    },
+    {
+      "id": "2",
+      "name": "iPhone 14 Pro Max",
+      "category": "Smartphone",
+      "price": "$1,299",
+      "rating": 4.9,
+      "image": "https://i.ibb.co/T8SrTYD/i-Phone-15-Plus-2-6-5363.jpg"
+    },
+    {
+        "id": "3",
+      "name": "iPad Air 5th Gen",
+      "category": "Tablet",
+      "price": "$699",
+      "rating": 4.6,
+      "image": "https://i.ibb.co/58z2NwJ/download.jpg"
+    },
+    {
+        "id": "4",
+      "name": "AirPods Pro 2",
+      "category": "Wireless Earbuds",
+      "price": "$249",
+      "rating": 4.8,
+      "image": "https://i.ibb.co/1QBvN84/download-1.jpg"
+    }
+  ]
+  
